@@ -51,8 +51,8 @@ global.ppulsa2 = 'chatowner' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
 global.psaweria = 'chatowner' //Saweria
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '62857973750144' //Nomor Bot mu
-global.nomorown = '16149631321' //Nomormu
+global.nomorbot = '62857973750143' //Nomor Bot mu
+global.nomorown = '6285797375014' //Nomormu
 global.namebot = 'KingPongV1' //Nama bot mu
 global.nameown = 'King' //Nama mu
 
@@ -171,7 +171,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
 global.stickpack = '.'
-global.stickauth = `© Fangz BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
+global.stickauth = `© King BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
